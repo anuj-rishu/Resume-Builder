@@ -23,6 +23,6 @@ Responsive Design: The application is responsive, ensuring a seamless experience
 Click the "Print CV" button to generate a printable version of your resume.
 
 ## Credits
-Made with ❤️ by Anuj Rishu Tiwari
+Made with ❤️ by Anuj Rishu Tiwari with the help of Assignment provided by CR  team
 
 Feel free to fork, contribute, and customize this Resume Builder for your needs. Happy job hunting!
