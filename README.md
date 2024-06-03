@@ -5,7 +5,7 @@ A versatile and user-friendly Resume Builder web application that allows you to 
 
 
 ## 🔗 Website Link
-https://genresume.netlify.app
+https://resume-builder-nine-blue.vercel.app/
 
 
 ## Features
